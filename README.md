@@ -1,2 +1,2 @@
-# Course Assignment for Ivy Professional School 
+# Course Assignment
 Multiple linear regression model in R
